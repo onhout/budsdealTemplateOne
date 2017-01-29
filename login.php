@@ -8,6 +8,7 @@
 		<div class="container">
 			<div class="col m12">
 				<h4 class="center-align"> User Login </h4>
+				<hr class="short_hr">
 			</div>
 
 			<div class="row">

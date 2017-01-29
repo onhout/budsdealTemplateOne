@@ -7,7 +7,8 @@
 	<div id="register">
 		<div class="container">
 			<div class="col m12">
-				<h4 class="center-align"> New User Registration </h4>
+				<h4 class="center-align"> Registration </h4>
+				<hr class="short_hr">
 			</div>
 
 			<div class="row">

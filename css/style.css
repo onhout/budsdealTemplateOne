@@ -21,6 +21,9 @@ width:400px !important;}
 	background-attachment: fixed;
 }
 
+.short_hr{
+	width:5%;
+}
 #bg_two{
 	background-color: #C4E9F9;
 }

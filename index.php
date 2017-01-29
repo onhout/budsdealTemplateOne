@@ -15,6 +15,7 @@
 			
 				<div class="col m12">
 					<h4 class="center-align"> Featured Deals </h4>
+					<hr class="short_hr">
 				</div>
 
 			    <a class="carousel-item" href="#one!"><img src="./images/pipe.png"></a>

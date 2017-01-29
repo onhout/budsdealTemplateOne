@@ -1,0 +1,100 @@
+*{
+	font-family: 'Poppins', sans-serif;
+}
+.carousel .carousel-item {
+width:400px !important;}
+
+.carousel-item{
+	margin-top:-15em;
+}
+#header{
+
+	height:40rem;
+
+}
+
+#bg,#login,#register{
+	background-image: url("../images/grass.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#bg_two{
+	background-color: #C4E9F9;
+}
+.nav-wrapper,#footer{
+	background-color:#222;
+}
+
+#category{
+	background-image: url("../images/flower.jpg");
+	background-size: 70% 100%;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	/*background-attachment: fixed;*/
+	/*border:.1px solid;*/
+	height:auto;
+	/*padding:55px;*/
+	/*margin-top:5.5rem;*/
+	line-height: 175%;
+	padding:35px;
+	/*background-color: #F9F9F9;*/
+}
+
+#cat_box{
+	/*border:.1px solid;*/
+ 	/*box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);*/
+ 	width:auto;
+	/*height:200px;*/
+	padding:35px;
+}
+h4{
+	font-family: 'Patua One', cursive;
+}
+
+.underline_bold{
+	font-weight:700;
+	text-decoration: underline;
+}
+
+.carousel{
+	/*margin-top:2.5rem;*/
+}
+
+.carousel-item{
+	/*margin-top:-5em;*/
+}
+/*
+.someList_title{
+	background-color:#222;
+	color:white;
+}*/
+
+
+
+#someListOne, #someListTwo{
+	padding:35px;
+	/*background-color:lightgreen;*/
+	background-color: #C4E9F9;
+}
+
+.login_buttons a{
+	width:100%;
+	background-color: #C4E9F9;
+	color:#222;
+}
+
+.log_button a{ 
+	background-color: #C4E9F9;
+	color:#222;
+}
+
+#login,#register{
+	padding:55px;
+}
+
+#subnav{
+	/*background-color:lightgreen;*/
+}
